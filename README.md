@@ -1,7 +1,5 @@
 # SA_IITG_ML
 
----
-
 # 📘 **Dynamic Pricing Engine for Urban Parking Lots**
 
 ### Summer Analytics 2025 Capstone Project
