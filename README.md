@@ -27,7 +27,6 @@ Urban parking is a scarce resource. Static pricing fails to adjust to fluctuatio
   * Environment: `TrafficConditionNearby`, `IsSpecialDay`
   * Vehicle Info: `VehicleType`
   * Time: `LastUpdatedDate`, `LastUpdatedTime`, combined to form `Timestamp`
-  * Location: `Latitude`, `Longitude` (used in Model 3)
 
 ---
 
@@ -58,13 +57,14 @@ $$
 
 ### 🔍 Justification:
 
-* Provides a simple, reactive pricing based only on occupancy ratio
+* Provides a simple, reactive pricing based only on the occupancy ratio
 * Serves as a baseline to compare more intelligent models
 
 ### 📊 Visualization:
 
 *Model 1 price variation for Lot BHMBCCMKT01*
-(Include your Bokeh plot here in the notebook/report)
+![image](https://github.com/user-attachments/assets/02d00737-fba9-4da7-a6c7-f43110727b0c)
+
 
 ---
 
@@ -104,7 +104,8 @@ $$
 ### 📊 Visualization:
 
 *Model 2 price variation for Lot BHMBCCMKT01*
-(Include your Bokeh plot here in the notebook/report)
+![image](https://github.com/user-attachments/assets/b2728422-060d-4369-8552-28d45648de07)
+
 
 ---
 
@@ -114,8 +115,8 @@ $$
 * **Model 2** captures day-to-day volatility and adjusts more dynamically.
 
 ### 📊 Combined Bokeh Chart:
+![image](https://github.com/user-attachments/assets/043ee860-885a-4a9a-bcd4-3293e23663e7)
 
-(Overlay plot of both models using Bokeh, included earlier)
 
 ---
 
