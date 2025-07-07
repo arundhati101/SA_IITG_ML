@@ -1,7 +1,5 @@
 # SA_IITG_ML
 
-Perfect, Arundhati! Here's a complete and polished **project report** outline with content for submission, based on your work so far with **Model 1** and **Model 2**.
-
 ---
 
 # 📘 **Dynamic Pricing Engine for Urban Parking Lots**
